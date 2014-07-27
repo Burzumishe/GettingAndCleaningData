@@ -20,3 +20,7 @@ You should create one R script called run_analysis.R that does the following.
 ## Dependencies
 
 ```run_analysis.R``` depends on ```reshape2``` and ```data.table``` libraries. 
+
+## Code Book
+
+The CodeBook.md file describes steps for transformation, resulting data and variables.
