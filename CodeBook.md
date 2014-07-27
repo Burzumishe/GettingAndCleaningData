@@ -49,7 +49,7 @@ Notes:
 
 ## Data Transformation
 
-There are 5 steps
+There are 8 steps
 
 1. Read test and train data.
 2. Subset of the columns representing only the mean and standard deviation values.
